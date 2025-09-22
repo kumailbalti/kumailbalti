@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate SEO developer from Pakistan</h3>
 
 - 🔭 I’m currently working on [Face Type Detector](https://facetypedetector.org/)
 
